@@ -1,2 +1,2 @@
 # Linux-Script-Repository
-A collection of my linux script
+A collection of various linux script
